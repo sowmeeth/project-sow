@@ -1,2 +1,3 @@
 # project-sow
-demo
+I love git.
+I also love github.
